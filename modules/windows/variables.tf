@@ -22,7 +22,7 @@ variable "admin_username" {
 }
 
 variable "pub_key" {
-  default = "C:/Users/james/.ssh/id_rsa.pub"
+  default = "/home/james/.ssh/id_rsa.pub"
 
 }
 
